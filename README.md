@@ -11,7 +11,7 @@ These components have been bought of Ebay.
 
 ![USB-FTDI-adapter](USB-FTDI-232---resized.png)
 
-==========================
+---
 
 <b>Schematic:</b>
 
