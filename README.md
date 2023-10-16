@@ -3,7 +3,7 @@ These components have been bought of Ebay.
 
 <b>Warning! Don't forget to setup the voltage from "USB FTDI adapter" to match the one from "Arduino Pro Mini". My "Arduino Pro Mini" has a voltage selector, which has been preset to 5V.</b>
 
-==========================
+---
 
 <b>Boards:</b>
 
@@ -15,4 +15,4 @@ These components have been bought of Ebay.
 
 <b>Schematic:</b>
 
-![Arduino-Pro-Mini-with-USB-FTDI-adapter](schematics - resized.png)
+![Arduino-Pro-Mini-with-USB-FTDI-adapter](schematics%20-%20resized.png)
